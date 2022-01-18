@@ -1,0 +1,8 @@
+{
+    "source": ["aws.emr"],
+    "detail-type": ["EMR Cluster State Change"],
+    "detail": {
+      "state": ["TERMINATED","TERMINATED_WITH_ERRORS"],
+      "clusterId": ["clusterId"]
+    }
+  }
