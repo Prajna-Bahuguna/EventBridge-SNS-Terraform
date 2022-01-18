@@ -5,4 +5,4 @@
       "state": ["TERMINATED","TERMINATED_WITH_ERRORS"],
       "clusterId": ["clusterId"]
     }
-  }
+}
